@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(71,71,71);
+    color: rgb(174, 255, 0);
+    justify-content:space-between;
+}
+h1{
+    color: green;
+}
+.navbar li{
+    list-style: none;
+    
+}
