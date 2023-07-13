@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(178, 245, 245);
+}
+
 .navbar{
     display: flex;
     flex-direction: row;
@@ -10,5 +14,36 @@ h1{
 }
 .navbar li{
     list-style: none;
+}
+    #projeto{
+        height: fit-content;
+        background-color: blue;
+    }
+    .sobre{
+        height: fit-content;
+        background-color: blueviolet;
+    }
+
+    .projetos{
+        height: fit-content;
+        background-color: rgb(220, 30, 30);
+    }
     
+    .carreira{
+        height: fit-content;
+        background-color: rgb(25, 100, 75);
+    }
+
+    .contato{
+        margin: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: fit-content;
+        background-color: rgb(16, 89, 89);
+        color: white;
+    }
+
+modo{
+    background-color: rgb(7, 102, 186);
 }
