@@ -1,0 +1,50 @@
+{
+    "pt_br": {
+        "titulo": "portifólio",
+        "navbar": [
+            "sobre mim",
+            "projetos",
+            "carreira",
+            "contato",
+            "inglês",
+            "modo claro",
+            "modo escuro"
+        ],
+        "sobre": {
+            "titulo": "sobre mim",
+            "conteudo": [
+                "brasileira",
+                "naci em florianópolis- santa catarina"
+            ]
+        },
+        "projetos": {},
+        "carreira": {
+            "titulo": "carreira",
+            "conteudo": []
+        }
+    },
+    "eng": {
+        "titulo": "portifólio",
+        "navbar": [
+            "about me",
+            "projetos",
+            "carreira",
+            "contato",
+            "inglês",
+            "modo claro",
+            "modo escuro"
+        ],
+        "sobre": {
+            "titulo": "sobre mim",
+            "conteudo": [
+                "brasileira",
+                "naci em florianópolis- santa catarina"
+            ]
+        },
+        "projetos": {},
+        "carreira": {
+            "titulo": "carreira",
+            "conteudo": []
+        }
+    }
+}
